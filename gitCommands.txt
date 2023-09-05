@@ -1,0 +1,8 @@
+git config commands:
+ git config --global user.email "1248139772@qq.com"
+ git config --global user.name "HobbitWinnie"
+
+git push commands:
+git add .
+git commit -m "update"
+git push
